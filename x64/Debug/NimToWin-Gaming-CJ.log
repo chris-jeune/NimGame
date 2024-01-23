@@ -1,0 +1,3 @@
+﻿  NimToWin.cpp
+C:\Users\CJ\OneDrive - Concordia University - Canada\Fall 2023\COEN 243\NimToWin\NimToWin.cpp(54,23): warning C4101: 'numTokens' : variable locale non référencée
+  NimToWin.vcxproj -> C:\Users\CJ\OneDrive - Concordia University - Canada\Fall 2023\COEN 243\NimToWin\x64\Debug\NimToWin.exe
