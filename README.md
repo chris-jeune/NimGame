@@ -29,23 +29,3 @@ To play the Nim Game, follow these steps:
 2. Compile the source code using a C++ compiler.
 3. Run the executable file.
 4. Follow the on-screen instructions to choose the game mode and start playing.
-
-## Contributors
-
-- [Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Issues and Reports
-
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/yourusername/nim-game/issues) on GitHub.
-
-## Contact Us
-
-Feel free to reach out to us if you have any questions or feedback. You can contact us via email at [your.email@example.com](mailto:your.email@example.com).
-
-## Enjoy the Game!
-
-We hope you enjoy playing the Nim Game! Have fun and happy gaming!
