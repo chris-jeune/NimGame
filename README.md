@@ -26,6 +26,5 @@ This project implements the Nim Game in C++.
 To play the Nim Game, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Compile the source code using a C++ compiler.
-3. Run the executable file.
+2. Compile and run the source code using a C++ compiler.
 4. Follow the on-screen instructions to choose the game mode and start playing.
